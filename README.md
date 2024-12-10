@@ -1,1 +1,1 @@
-# chernoviki_diplom
+# Черновики по диплому
